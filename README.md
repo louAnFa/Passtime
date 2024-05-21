@@ -1,2 +1,2 @@
 # Passtime
-best way to passtime in school!
+best way to passtime in school
